@@ -1,0 +1,22 @@
+.barcode{
+    font-family: 'Lato', sans-serif;
+}
+
+.code{
+    width: 80px;
+}
+
+.label{
+    color: black;   
+}
+
+.garis {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-width: 3px;
+    border-color: black;
+}
+
+.teks{
+    margin-left: 30px;
+}

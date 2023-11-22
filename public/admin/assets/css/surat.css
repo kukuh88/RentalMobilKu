@@ -1,0 +1,87 @@
+.container {
+    font-family: arial;
+    font-size: 18px;
+    margin: 15px;
+    margin-top: 15px;
+    margin: auto;
+    /* text-align: center; */
+    
+    /* display: flex; */
+}
+.table {
+    border: 2px solid;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    table-layout: auto;
+    width: 95%; 
+    
+  }
+
+
+  th {
+    padding: 15px;
+    /* text-align: left; */
+    border: 1px solid black;
+  }
+  .head{
+    text-align: center;
+  }
+
+  .center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+.logo{
+    text-align: right;
+}
+
+.text{
+    text-align: center;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.judul{
+  display: block;
+  font-size: 22px;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+}
+
+.pertama{
+  font-size: 12px;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.kedua{
+  font-size: 12px;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+
+  /* .footer{
+    border: 2px solid;
+    border-collapse: collapse;
+        width: 900px;
+        float: left;
+        padding: 10px;
+        border-right: 1px solid #000;
+  
+  } */
+/* 
+  .text{
+
+  } */
+
